@@ -12,8 +12,8 @@ Nous collectons et analysons des données pour comprendre les comportements alim
 - Sensibiliser à une alimentation plus saine.  
 
 ## 👥 Équipe
-- Salah  
-- Ines  
+- Salah ines
+- Hamel khaoula 
 
 ## 🧩 Étapes du projet
 1. Collecte des données (questionnaires et observations).  
