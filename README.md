@@ -13,7 +13,9 @@ Nous collectons et analysons des données pour comprendre les comportements alim
 
 ## 👥 Équipe
 - Salah ines
-- Hamel khaoula 
+- Hamel khaoula
+- wissal refsi
+- Mariem sellidji
 
 ## 🧩 Étapes du projet
 1. Collecte des données (questionnaires et observations).  
