@@ -27,7 +27,7 @@ It aims to analyze how students manage their daily food intake, identify unhealt
 | Task | Description | Assigned to | Status |
 |------|--------------|--------------|--------|
 | Prepare the nutrition questionnaire | Create survey questions about students’ eating habits. | **Hamel khaoula** | To do |
-| Collect responses | Distribute the questionnaire and gather data from participants. | **Hamel Khaoula** | To do |
+| Collect responses | Distribute the questionnaire and gather data from participants. | **Salah ines** | To do |
 | Analyze data | Organize and interpret collected data (Excel/Sheets). | **Wissal Refsi** | To do |
 | Create charts and graphs | Visualize the results with charts and summaries. | **Mariem Sellidj** | To do |
 | Write the final report | Summarize findings, conclusions, and recommendations. | **All team members** | To do |
